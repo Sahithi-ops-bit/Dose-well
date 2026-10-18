@@ -3,9 +3,6 @@
 
 **Never miss a dose again.** DoseWell is a medicine reminder app with a multilingual voice assistant that speaks your reminders aloud, in the language you're most comfortable with.
 
-![License](https://img.shields.io/badge/license-MIT-green)
-![Platform](https://img.shields.io/badge/platform-[Android%20%7C%20iOS%20%7C%20Web]-blue)
-![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
 
@@ -44,11 +41,7 @@ Forgetting medicines is a common problem, especially for elderly people, patient
 | Voice | [Android TextToSpeech / Google Cloud TTS / flutter_tts] |
 | Notifications | [AlarmManager / flutter_local_notifications / FCM] |
 
-## 📸 Screenshots
 
-| Home | Add Medicine | Voice Reminder |
-|------|--------------|----------------|
-| ![Home](screenshots/home.png) | ![Add](screenshots/add.png) | ![Voice](screenshots/voice.png) |
 
 ## 🚀 Getting Started
 
@@ -82,7 +75,7 @@ If you use any API keys (e.g., Firebase, Google Cloud TTS), create a config file
 [.env / google-services.json / config.dart]
 ```
 
-> ⚠️ Never commit your API keys to GitHub.
+
 
 ## 📱 Usage
 
@@ -132,15 +125,7 @@ Contributions are welcome!
 
 DoseWell is a reminder tool only. It does **not** provide medical advice, diagnosis, or treatment. Always follow your doctor's instructions and consult a healthcare professional for medical decisions.
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
-
-## 👨‍💻 Author
-
-**[Your Name]**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
 
 ---
 
